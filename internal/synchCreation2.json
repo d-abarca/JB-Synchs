@@ -66,6 +66,7 @@
         "loginPassword": null,
         "loginApiKey": null,
         "userId": "",
+        "status": "",
         "sourceObjects": [{
             "sourceObjectID": 15,
             "sourceID": 1,
@@ -142,6 +143,7 @@
         "loginPassword": null,
         "loginApiKey": null,
         "userId": "",
+        "status": "",
         "options": [{
             "targetOptionID": 15,
             "optionType": "R/W",

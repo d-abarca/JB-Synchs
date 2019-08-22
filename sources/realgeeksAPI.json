@@ -3,26 +3,29 @@
         {
             "type": "was_assigned",
             "user": {
-                "email": "ross@clearlaunch.com",
-                "id": "64163",
-                "name": "Ross Henderson",
-                "role": "Agent"
+                "email": "themac@realsynch.com",
+                "id": "49616",
+                "name": "Michael McAnally",
+                "role": "Agent",
+                "signature": "Mac"
             }
         }
     ],
-    "created": "2019-05-17T17:54:47Z",
-    "email": "jonnathanhouston@mailinator.com",
-    "first_name": "Jonnathan",
-    "id": "dbdc8e4c78cc11e9a7e20242ac110003",
-    "last_name": "Houston",
-    "phone": "7768594032",
-    "region": "Unknown",
-    "role": "Buyer and seller",
+    "address": "",
+    "created": "2019-07-17T15:33:10Z",
+    "email": "royemerates@mailinator.com",
+    "first_name": "Roy",
+    "id": "b37a0e3b16d940a08ff47c755b68b0ef",
+    "last_name": "Emer",
+    "phone": "5567786654",
+    "phone2": "",
+    "role": "Buyer",
     "site_domain": "realsynch.realgeeks.com",
-    "site_login_url": "http://realsynch.realgeeks.com/member/quick_login/dbdc8e4c78cc11e9a7e20242ac110003/",
+    "site_login_url": "http://realsynch.realgeeks.com/member/quick_login/b37a0e3b16d940a08ff47c755b68b0ef/",
     "site_uuid": "752411fc-4636-4b88-8c21-01ecd339de83",
-    "source": "Website Property Search",
-    "source_details": "Direct<br>IP Address: 187.189.36.199",
-    "timeframe": "1 Week",
-    "urgency": "Cold"
+    "status": "Active",
+    "tags": [
+        "some tag",
+        "cm-start"
+    ]
 }
